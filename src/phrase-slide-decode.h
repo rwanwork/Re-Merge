@@ -1,8 +1,8 @@
 /*    Re-Merge
 **    Block merger for recursive pairing.
-**    Copyright (C) 2003, 2007 by Raymond Wan (rwan@kuicr.kyoto-u.ac.jp)
 **
-**    Version 1.0 -- 2007/04/02
+**    Copyright (C) 2003-2022 by Raymond Wan, All rights reserved.
+**    Contact:  rwan.work@gmail.com
 **
 **    This file is part of the Re-Merge software.
 **
