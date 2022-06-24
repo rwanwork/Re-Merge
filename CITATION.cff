@@ -3,18 +3,18 @@ title: Block merging for off-line compression
 message: 'If you use this software, please cite it as below.'
 type: software
 authors:
-  - given-names: Raymond
+  - given-names: R
     family-names: Wan
-  - given-names: Alistair
+  - given-names: A
     family-names: Moffat
 preferred-citation:
   type: article
   authors:
   - family-names: "Wan"
-    given-names: "Raymond"
+    given-names: "R"
     orcid: "https://orcid.org/0000-0003-3202-7008"
   - family-names: "Moffat"
-    given-names: "Alistair"
+    given-names: "A"
     orcid: "https://orcid.org/0000-0002-6638-0232"
   doi: "https://doi.org/10.1002/asi.20515"
   journal: "Journal of the American Society for Information Science and Technology"
