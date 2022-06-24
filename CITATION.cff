@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: Block merging for off-line compression
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Raymond
+    family-names: Wan
+  - given-names: Alistair
+    family-names: Moffat
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Raymond"
+    given-names: "Wan"
+    orcid: "https://orcid.org/0000-0003-3202-7008"
+  - family-names: "Alistair"
+    given-names: "Moffat"
+    orcid: "https://orcid.org/0000-0002-6638-0232"
+  doi: "https://doi.org/10.1002/asi.20515"
+  journal: "Journal of the American Society for Information Science and Technology"
+  start: 3 # First page number
+  end: 14 # Last page number
+  title: "Block merging for off-line compression"
+  issue: 1
+  volume: 58
+  year: 2007
